@@ -76,6 +76,14 @@ const resetForm = () => {
 </script>
 
 <style scoped>
+
+.login-body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  background-color: #fff;
+}
 .login-container{
     width: 420px;
     height: 500px;
