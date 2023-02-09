@@ -36,6 +36,7 @@ import { onMounted, onUnmounted } from 'vue'
 let myChart = null;
 
 onMounted(() => {
+
   if(window.echarts){
     myChart = window.echarts.init(document.getElementById('zoom'))
 
