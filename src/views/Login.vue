@@ -4,7 +4,6 @@
       <div class="login-container">
         <!--登录框头部logo部分-->
         <div class="head">
-          <img class="logo" src="https://s.weituibao.com/1582958061265/mlogo.png" />
           <div class="name">
             <div class="title">小陈商城</div>
             <div class="tips">后台管理系统</div>
